@@ -1,0 +1,9 @@
+{
+    "name": "code-review",
+    "desc": "代码审查技能，自动查找代码bug、安全漏洞、性能隐患并给出修改方案",
+    "version": "1.0.0",
+    "author": "leftU1e",
+    "help": "直接发送代码，即可自动进行代码评审",
+    "keywords": ["代码评审", "审代码", "查bug", "code review"],
+    "priority": 10
+}
