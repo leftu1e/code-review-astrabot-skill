@@ -1,2 +1,12 @@
-# code-review-astrabot-skill
-AstrBot code review skill
+# AstrBot 代码审查 Skill
+AstrBot 技能，用于自动代码评审，可以查找代码Bug、安全隐患、性能问题，并给出修改方案。
+
+## 安装方式
+在 AstrBot 后台选择【从 GitHub 仓库安装技能】，填入本仓库链接即可一键导入。
+
+## 使用方法
+直接向机器人发送需要评审的代码，机器人自动完成代码审查。
+
+## 文件说明
+- skill.json：技能配置文件
+- skill.md：技能提示词文件
